@@ -97,7 +97,7 @@ Put the following in `$HOME/.config/waybar/style.css`:
 #custom-mediaplayer
 {
   font-size: 16px;
-  border-radius: 2%;
+  border-radius: 10px 10px 10px 10px;
 }
 @import "./waybar-mediaplayer/src/style.css";
 ```
